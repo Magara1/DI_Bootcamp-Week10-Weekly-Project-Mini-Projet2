@@ -1,0 +1,31 @@
+header{
+    background-color: #8A2BE2;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-fluid{
+    width: 100%;
+}
+
+.article1{
+    margin-left: 10px;
+}
+
+
+.user-create-count article{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+
+.article2{
+    margin-top: 50px;
+    background-color: #00FF00;
+    width: 300px;
+    height: 200px;
+}
+
